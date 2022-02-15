@@ -1,0 +1,4 @@
+REPORT zbasis_user_pwd_generator.
+
+INCLUDE zbasis_user_pwd_generator_ss.
+INCLUDE zbasis_user_pwd_generator_main.

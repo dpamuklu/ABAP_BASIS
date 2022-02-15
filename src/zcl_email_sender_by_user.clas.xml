@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_EMAIL_SENDER_BY_USER</CLSNAME>
+    <LANGU>T</LANGU>
+    <DESCRIPT>User Email Sender</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_EMAIL_SENDER_BY_USER</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Constructor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_EMAIL_SENDER_BY_USER</CLSNAME>
+     <CMPNAME>CONTENT</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Tablo tipi olarak OBJCONT ve OBJHEAD</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_EMAIL_SENDER_BY_USER</CLSNAME>
+     <CMPNAME>SEND_MAIL</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Send Mail</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_EMAIL_SENDER_BY_USER</CLSNAME>
+     <CMPNAME>TITLE</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Kısa içerik tanımı</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_EMAIL_SENDER_BY_USER</CLSNAME>
+     <CMPNAME>USER</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Kullanıcı adı</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
